@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/v1/fares?applicationDate=2020-06-14T17:00:00&productId=35455&brandId=1
+
+###
+GET http://localhost:8080/v1/fares?applicationDate=2020-06-15T17:00:00&productId=35455&brandId=1
